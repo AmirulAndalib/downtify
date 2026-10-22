@@ -25,8 +25,8 @@
     "@vitejs/plugin-vue": "^6.0.8",
     "esbuild": "^0.28.0",
     "tailwindcss": "^4.3.3",
-    "vite": "^8.3.0",
-    "vitest": "^4.1.5"
+    "vite": "^8.3.5",
+    "vitest": "^4.1.12"
   },
   "allowScripts": {
     "esbuild@0.28.2": true
